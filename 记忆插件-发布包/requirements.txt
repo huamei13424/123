@@ -1,0 +1,6 @@
+# 记忆生成器的依赖清单
+# 别人拿到这个项目，只要运行一条命令就能装齐：
+#   pip install -r requirements.txt
+
+openai>=3.0
+zstandard>=0.22

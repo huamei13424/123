@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Memory panel",
+    "description": "Shows a memory-chain entry above the composer and a status dialog (minimal test build)."
+  }
+}
